@@ -1,7 +1,9 @@
 header {
- background-color: #8970f8 ; 
+    .cabecalho-imagens{
+        width: 400%;
+        width: 400%;
+    }
+ background-color: rgb(140, 59, 247); 
  color: rgb(0, 0, 0);
-}
-body{
-    color: rgb(107, 28, 255);
-}
+ color: rgb(255, 255, 255);
+  }
